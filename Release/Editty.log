@@ -1,0 +1,8 @@
+﻿  Editty.cpp
+C:\Users\alber\source\repos\Editty\Editty\Editty.cpp(121,37): warning C4018:  '<=': no coinciden signed/unsigned
+C:\Users\alber\source\repos\Editty\Editty\Editty.cpp(171,35): warning C4018:  '>=': no coinciden signed/unsigned
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 297 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Editty.vcxproj -> C:\Users\alber\source\repos\Editty\Release\Editty.exe

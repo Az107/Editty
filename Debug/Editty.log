@@ -1,0 +1,5 @@
+﻿  Editty.cpp
+C:\Users\alber\source\repos\Editty\Editty\Editty.cpp(110,17): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\alber\source\repos\Editty\Editty\Editty.cpp(154,37): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\alber\source\repos\Editty\Editty\Editty.cpp(204,35): warning C4018: '>=': no coinciden signed/unsigned
+  Editty.vcxproj -> C:\Users\alber\source\repos\Editty\Debug\Editty.exe
