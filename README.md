@@ -8,5 +8,5 @@ simple and light CLI text editor for windows
 you can use Visual Studio or simply 
 
 ```
-curl Editty.cpp -o Editty.exe
+clang Editty.cpp -o Editty.exe
 ```
